@@ -1,0 +1,2 @@
+Hello! I am Om K. Patra.
+I am learning Data Science through Coursera by a Course provided by IBM.
